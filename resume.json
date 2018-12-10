@@ -32,6 +32,17 @@
         ]
     },
     "work": [{
+        "company": "Lamoda",
+        "position": "Тимлид команды WMS",
+        "website": "https://lamoda.ru",
+        "startDate": "2018-09-10",
+        "summary": "WMS - Warehouse Management System. Она управляет одним из самых больших автоматиированных складов в Европе. Наша команда отвечает за автоматизацию всех бизнес процессов, касающихся работы на складе — приёмки, хранения, консолидации и отправки как в B2C так и в B2B сегментах",
+        "highlights": [
+            "Перевод проекта на Java 11",
+            "Кластеризация приложения (на базе Wildfly)",
+            "Сделал покрытие всего сервисного слоя тестами обязательной практикой"
+        ]
+    }, {
         "company": "НКО Клуб ОРТовцев",
         "position": "Председатель правления",
         "website": "https://ort-club.ru",
@@ -162,5 +173,21 @@
     "references": [{
         "name": "Slava Semushin, co-worker",
         "reference": "Pavel is one of the brightest persons that I've ever seen! He is quickly learning new stuff, very positive with open mind, eager to discover new horizons. I like (and I'm continue to learning from him) his attitude for mistakes and conflicts.\nI remember that when we worked together, we found a synergy between us that helped both of us to grow faster. Our communication also created a strong relationship that still alive and I always like to meet him over and over. If one day we'd be able to work together again, I will be happy!"
+    }],
+    "projects": [{
+        "name": "Joker 2018",
+        "description": "Крупнейшая Java-конференция в России",
+        "keywords": ["Конференция", "Java", "Kotlin"],
+        "startDate": "2018-10-19",
+        "endDate": "2018-10-20",
+        "url": "https://jokerconf.com/2018/talks/4ugca8wuwow0sqiocyc86w/",
+        "roles": ["Спикер", "Участник"],
+        "type": "Конференция",
+        "entity": "JUG.ru",
+        "highlights": [
+            "Часовой доклад",
+            "Презентация во втором по размеру зале",
+            "Больше 500 слушателей"
+        ]
     }]
 }
