@@ -1,2 +1,5 @@
 index.html
 public/
+out/
+node_modules/
+yarn*
