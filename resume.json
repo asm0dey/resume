@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Павел Финкельштейн",
-        "label": "CTO, Team Letad, DevRel",
+        "label": "CTO, Team Lead, DevRel",
         "picture": "res.jpg",
         "email": "pavel.finkelshtein@gmail.com",
         "phone": "+7 (915)208-2133",
         "website": "https://asm0dey.ru",
-        "summary": "IT-менеджер с серьёзным бэкграундом в разработке и администрировании. \nСобираю команды, настраиваю процессы. Умею считать бюджет. \nПонимаю, когда изменения нужны и умею это доказывать как заказчику, так и разработчикам, в зависимости от того, где именно они нужны.",
+        "summary": "IT-менеджер с серьёзным бэкграундом в разработке и пипл-менедженте.\nСейчас сконцентрирован не только на менеджменте, но и на DevRel-активностях: выступаю на конференциях и вообще развиваю как свой бренд, так и бренд своей компании. \nСобираю команды, настраиваю процессы. Умею считать бюджет. \nПонимаю, когда изменения нужны и умею это доказывать как заказчику, так и разработчикам, в зависимости от того, где именно они нужны.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -43,7 +43,7 @@
     },
     "work": [{
         "company": "Lamoda",
-        "position": "Тимлид команды WMS",
+        "position": "Тимлид команды WMS. Амбассадор #techlamoda",
         "website": "https://lamoda.ru",
         "startDate": "2018-09-10",
         "summary": "WMS - Warehouse Management System. Она управляет одним из самых больших автоматиированных складов в Европе. Наша команда отвечает за автоматизацию всех бизнес процессов, касающихся работы на складе — приёмки, хранения, консолидации и отправки как в B2C так и в B2B сегментах",
@@ -187,14 +187,14 @@
         "reference": "Pavel is one of the brightest persons that I've ever seen! He is quickly learning new stuff, very positive with open mind, eager to discover new horizons. I like (and I'm continue to learning from him) his attitude for mistakes and conflicts.\nI remember that when we worked together, we found a synergy between us that helped both of us to grow faster. Our communication also created a strong relationship that still alive and I always like to meet him over and over. If one day we'd be able to work together again, I will be happy!"
     }],
     "projects": [{
-            "name": "Joker 2018",
+            "name": "Joker 2018. Котлин — 2 года в продакшне и ни единого разрыва",
             "description": "Крупнейшая Java-конференция в России",
             "keywords": ["Конференция", "Java", "Kotlin"],
             "startDate": "2018-10-19",
             "endDate": "2018-10-20",
-            "url": "https://jokerconf.com/2018/talks/4ugca8wuwow0sqiocyc86w/",
+            "url": "https://2018.jokerconf.com/2018/talks/4ugca8wuwow0sqiocyc86w/",
             "roles": ["Спикер", "Участник"],
-            "type": "Конференция",
+            "type": "",
             "entity": "JUG.ru",
             "highlights": [
                 "Часовой доклад",
@@ -203,16 +203,32 @@
             ]
         },
         {
-            "name": "CodeFest X",
+            "name": "CodeFest X. Котлин — 2 года в продакшне и ни единого разрыва (улучшенная версия)",
             "keywords": ["Конференция", "Java", "Kotlin"],
             "startDate": "2019-3-30",
             "endDate": "2019-3-31",
             "url": "https://2019.codefest.ru/lecture/1393",
             "roles": ["Спикер", "Участник"],
-            "type": "Конференция",
+            "type": "",
             "entity": "CodeFest",
             "highlights": [
                 "Часовой доклад"
+            ]
+        },
+        {
+            "name": "JPoint 2019. Kotlin: как работают привычные конструкции",
+            "description": "Самая большая Java-конференция в Москве",
+            "keywords": ["Конференция", "Java", "Kotlin"],
+            "startDate": "2019-04-05",
+            "endDate": "2019-04-06",
+            "url": "https://jpoint.ru/talks/7hdkasbciqgyumltlyoe6z/",
+            "roles": ["Спикер", "Участник"],
+            "type": "",
+            "entity": "JUG.ru",
+            "highlights": [
+                "Часовой доклад",
+                "Больше 200 слушателей",
+                "Про внутреннее устройство Kotlin-конструкций"
             ]
         }
     ]
