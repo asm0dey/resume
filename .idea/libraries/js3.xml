@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="js3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/.pnpm/JSV@4.0.2_5fiilbip7vo4febtmsu4uxgjga/node_modules/JSV/jsdoc-toolkit/java/classes/js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

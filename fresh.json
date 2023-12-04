@@ -1,0 +1,209 @@
+{
+  "name": "Pasha Finkelshtein",
+  "info": {
+    "label": "Developer Advocate – JetBrains",
+    "brief": "Developer advocate for data engineering and a polyglot developer. I write in JVM languages (even exotic like Clojure), Python, and JS/TS. I love talking and people. Autonomous, but I don't like isolation. Learning never ends for me.",
+    "image": "https://asm0dey.su/avatar.jpg"
+  },
+  "contact": {
+    "email": "me@asm0dey.site",
+    "phone": "+4915259817123"
+  },
+  "meta": {
+    "version": "v1.0.0",
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2022-09-23T10:16:19.252Z",
+    "url": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  },
+  "location": {
+    "country": "DE",
+    "address": "Südostallee 152a, Berlin"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Developer Advocate for Kotlin & Big Data Tools",
+        "summary": "My primary goals as developer advocate for the Big Data Tools plugin are to interact with the community to find trends that will help to make the [plugin](https://jb.gg/bdt) more useful to widen its audience. I do content marketing, give talks and record thematic podcasts. As a Daveloper Advocate for Kotlin I mostly give talks and prepare learning materials",
+        "current": true,
+        "employer": "JetBrains",
+        "start": "2021-02-28",
+        "url": "https://jetbrains.com",
+        "location": "Berlin, Germany",
+        "keywords": [],
+        "highlights": [
+          "Writing the [Data Engineering Annotated Monthly](https://jb.gg/de-annotated)",
+          "Writing the Big Data World series: https://jb.gg/big-data-world",
+          "Maintaining [Kotlin API for Apache® Spark](https://github.com/Kotlin/kotlin-spark-api)",
+          "Wrote and maintaining [Library creators' guidelines](https://kotlinlang.org/docs/jvm-api-guidelines-introduction.html)",
+          "[Advanced Kotlin Techniques for Spring Developers](https://www.youtube.com/watch?v=lTPo1R0LznY)",
+          "Streaming [Koding in Kotlin](https://youtube.com/@kodinginkotlin) on Twitch and YouTube",
+          "Was PC member of the biggest [Data Engineering conference in Russia: SmartData](https://2021.smartdataconf.ru/organizers/#committee)",
+          "Giving talks on different data-related topics, for example [Testing Data Pipelines](https://www.youtube.com/watch?v=_RTGa72WDKQ)",
+          "Creating learning materials, primarily in the form of videos in our Twitter account [@BigDataTools](https://twitter.com/BigDataTools)",
+          "Support users in our Slack channel",
+          "Participating in lots of data-related chats in Slack, Telegram, and Discord"
+        ]
+      },
+      {
+        "employer": "JetBrains",
+        "position": "Software Engineer",
+        "summary": "Building Big Data Tools for IntelliJ IDEA Ultimate (https://jb.gg/bdt)\n\nAuthor and maintainer of Kotlin for Apache® Spark™ (https://github.com/JetBrains/kotlin-spark-api)",
+        "start": "2020-02-28",
+        "end": "2021-02-28",
+        "url": "https://jetbrains.com",
+        "location": "Moscow, Russia",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Lamoda",
+        "position": "WMS Team Leader, Data Engineer",
+        "summary": "As a team lead, I'm\n\nImproving development process\n\nPerforming code reviews\n\nSolve technological tasks, such as\n\n1) Clustering of application\n2) Improving testing architecture\n\n3) Complex refactorings\n\nTask management\n\nAlso, I was part of lamoda.tech brand team. As a member, I'm\n\nspeaking at conferences/meetups\n\nstanding on our stand at conferences\n\nparticipate in speaker improvement in our speaker club",
+        "start": "2018-09-30",
+        "end": "2020-02-28",
+        "keywords": [],
+        "location": "Moscow, Russia",
+        "highlights": [
+          "Gave multiple talks on topics related with Kotlin",
+          "Standing on the booth on the one of the biggest conferences in Russia: Highload++ for 2 consecutive days each year"
+        ]
+      },
+      {
+        "employer": "Home Credit Bank",
+        "position": "CIO at Digital Business block",
+        "summary": "My primary responsibility is to set up and fix the (where broken) development and testing process.\n\nMy main achievements are:\n\n1. have reoriented development from IT-centric to business-centric\n\n2. have almost wholly eliminated overtimes\n\n3. with changes have created a positive trend in bug elimination\n4. we have created a transparent stakeholders' communication and prioritization\nprocess",
+        "start": "2017-11-30",
+        "end": "2018-09-30",
+        "location": "Moscow, Russia",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Sberbank Realty center",
+        "position": "Development tech lead",
+        "summary": "Tech leadership on Java developers, planning, and task decomposition.\n\nCommunication with business. Candidates interviews.\n\nProject:\n\nThe system, a de facto analog of the bill of credit, is performed without a bank license.\n\nThe system is built with:\n\nJava 8, Kotlin\nSpring\n\nPostgres\n\njOOQ\n\nRabbitMQ\n\nReact+Redux for frontend.\n\nAll the system works in the Kubernetes environment (and in Docker).\n\nOther responsibilities:\n\nIn my first month in the company, I created an architectural overview of the whole company ecosystem. I've created the presentation, where I made some accents on the most influencing weaknesses of existing solutions and proposed ways to improve the situation. Most of the ideas from this presentation are now accepted as rules for development in the company.",
+        "start": "2016-07-31",
+        "end": "2017-11-30",
+        "keywords": [],
+        "location": "Moscow, Russia",
+        "highlights": []
+      },
+      {
+        "employer": "ATOL",
+        "position": "Software architect",
+        "summary": "I've achieved the following results:\n\nGot basic knowledge about retail business\n\nUnder conditions of constantly changing requirements, I've created a team, process, and product that can quickly adapt to these requirements.\n\nBrought a product into production exploitation (in the beta-test stage)\n\nTechnical stack is:\n\nSpring Boot with Cloud, Security, MVC, Core, JDBC, Cache, AMQP\n\nConsul\n\nPostgres\n\nRedis\n\nJava 8, Kotlin\nJavascript (ES2015, AngularJS, Webpack)\n\nDocker",
+        "start": "2015-12-31",
+        "end": "2016-07-31",
+        "keywords": [],
+        "location": "Moscow, Russia",
+        "highlights": []
+      },
+      {
+        "employer": "NII Voskhod",
+        "position": "Team Lead",
+        "summary": "My responsibilities include:\n\nManagement of team up to 5 people, task assignment, planning.\n\nAlso I work as a senior developer, so I have responsibility for final product architecture and things like deployment process automation, documentation etc.\n\nWe're developing enterprise-class application, which controls federal system of electronic data exchange and intercommunication.\n\nKey technologies: Java EE, JavaScript, CSS, HTML, Hibernate, Oracle.",
+        "start": "2014-02-28",
+        "end": "2015-12-31",
+        "location": "Moscow, Russia",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "CHIP",
+        "position": "Author",
+        "summary": "Wrote articles about linux for CHIP DVD.",
+        "start": "2013-05-31",
+        "end": "2013-11-30",
+        "keywords": [],
+        "location": "Moscow, Russia",
+        "highlights": []
+      },
+      {
+        "employer": "URAN IBTAE RAN",
+        "position": "Developer",
+        "summary": "Java programming:\n\nstandart library, apache commons, JPA, google guava, Eclipse RCP, Hibernate (basic knowledge)\n\nResearch development: Metawidget, GWT, Vaadin, many other libs\n\nI am first in our team, who used mockito in unit tests.\n\nOther languages:\n\nGroovy, Scala and Kotlin (basic)\n\nBuild engineering: Jenkins CI, Maven\nSetup servers for development - all infrastructure work: OS setup, all necessary soft\n\nStrong knowledge of Unix-based OS'es - ubuntu, centos, fedora",
+        "start": "2009-03-31",
+        "end": "2014-01-31",
+        "keywords": [],
+        "location": "Moscow, Russia",
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Higher School of Economics",
+        "start": "2007-09-01",
+        "end": "2009-06-30",
+        "area": "Business Psychology",
+        "studyType": "Master's degree",
+        "location": "Moscow, Russia",
+        "grade": "Master"
+      },
+      {
+        "institution": "Higher School of Economics",
+        "start": "2003-09-01",
+        "end": "2007-06-30",
+        "area": "Psychology",
+        "studyType": "Bachelor's degree",
+        "grade": "Bachelor"
+      }
+    ]
+  },
+  "service": {},
+  "skills": {
+    "sets": [{
+      "name": "Communications",
+      "skills": ["Public speaking", "Writing", "Podcasting"]
+    },
+      {
+        "name": "Programming",
+        "skills": ["Java", "Kotlin", "Python", "JS", "TS", "Scala"]
+      },
+      {
+        "name": "Architecture",
+        "skills": ["Microservices", "Data Storage Architecture", "Distributed Systems"]
+      },
+      {
+        "name": "Data Engineering",
+        "skills": ["Apache Spark", "Architecture", "EMR", "Kafka", "GCP", "Storages"]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/asm0dey/",
+      "user": "asm0dey"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "https://twitter.com/asm0di0",
+      "user": "asm0di0"
+    }
+  ],
+  "interests": [],
+  "testimonials": [
+    {
+      "name": "Slava Semushin",
+      "flavor": "professional",
+      "quote": "Pavel is one of the brightest persons that I've ever seen! He is quickly learning new stuff, very positive with an open mind, eager to discover new horizons. I like (and I continue to learn from him) his attitude for mistakes and conflicts.\n\nI remember that when we worked together, we found a synergy between us that helped both of us to grow faster. Our communication also created a strong relationship that is still alive, and I always like to meet him over and over. If one day we are able to work together again, I will be happy!",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Russian"
+    }
+  ]
+}

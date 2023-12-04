@@ -1,0 +1,379 @@
+{
+    "basics": {
+        "name": "Pasha Finkelshtein",
+        "email": "me@asm0dey.site",
+        "phone": "+4915259817123",
+        "photo": {
+            "url": "http://localhost:3100/assets/uploads/1/1/1700916398469.jpg",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Developer advocate for data engineering and a polyglot developer. I write in JVM languages (even exotic like Clojure), Python, and JS/TS. I love talking and people. Autonomous, but I don't like isolation. Learning never ends for me.",
+        "website": "",
+        "headline": "Developer Advocate – JetBrains",
+        "location": {
+            "city": "Berlin",
+            "region": "",
+            "address": "Südostallee 152a",
+            "country": "Germany",
+            "postalCode": "12487"
+        },
+        "profiles": [
+            {
+                "id": "fd3d4d25-42b7-49f2-9d59-bede4d267e18",
+                "url": "https://www.linkedin.com/in/asm0dey/",
+                "network": "LinkedIn",
+                "username": "asm0dey"
+            },
+            {
+                "id": "3253a69c-dfca-46d0-be40-be786991405f",
+                "url": "https://twitter.com/asm0di0",
+                "network": "Twitter",
+                "username": "asm0di0"
+            },
+            {
+                "id": "36abe126-6dc6-4383-be8e-24b5bf8fb6df",
+                "url": "https://github.com/asm0dey",
+                "network": "Github",
+                "username": "asm0dey"
+            }
+        ],
+        "birthdate": "1986-10-18"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "id": "7f910bff-2252-4832-b8e4-78402f532b03",
+                    "date": {
+                        "end": "",
+                        "start": "2021-02-28T00:00:00.000Z"
+                    },
+                    "name": "JetBrains",
+                    "summary": "My primary goals as developer advocate for the Big Data Tools plugin are to interact with the community to find trends that will help to make the [plugin](https://jb.gg/bdt) more useful to widen its audience. I do content marketing, give talks and record thematic podcasts.",
+                    "position": "Developer Advocate"
+                },
+                {
+                    "id": "bda81441-a663-4968-87ec-fde395d3ff08",
+                    "date": {
+                        "end": "2021-02-28T00:00:00.000Z",
+                        "start": "2020-02-28T00:00:00.000Z"
+                    },
+                    "name": "JetBrains",
+                    "summary": "Building Big Data Tools for IntelliJ IDEA Ultimate (https://jb.gg/bdt)\n\nAuthor and maintainer of Kotlin for Apache® Spark™ (https://github.com/JetBrains/kotlin-spark-api)",
+                    "position": "Software Engineer"
+                },
+                {
+                    "id": "a498edac-7792-473c-b8e0-28caa84b2b50",
+                    "date": {
+                        "end": "2020-02-28T00:00:00.000Z",
+                        "start": "2018-09-30T00:00:00.000Z"
+                    },
+                    "name": "Lamoda",
+                    "summary": "As a team lead, I'm\n\nImproving development process\nPerforming code reviews\n\nSolve technological tasks, such as\n\n1) Clustering of application\n2) Improving testing architecture\n3) Complex refactorings\n\nTask management\n\nAlso, I was part of lamoda.tech brand team. As a member, I'm\n\nspeaking at conferences/meetups\nstanding on our stand at conferences\nparticipate in speaker improvement in our speaker club",
+                    "position": "WMS Team Leader, Data Engineer"
+                },
+                {
+                    "id": "e86da7ea-db07-404d-a2a9-b781a1ba7db1",
+                    "date": {
+                        "end": "2018-09-30T00:00:00.000Z",
+                        "start": "2017-11-30T00:00:00.000Z"
+                    },
+                    "name": "HomeCredit Bank",
+                    "summary": "My primary responsibility is to set up and fix the (where broken) development and testing process.\n\nMy main achievements are:\n\n1. have reoriented development from IT-centric to business-centric\n2. have almost wholly eliminated overtimes\n3. with changes have created a positive trend in bug elimination\n4. we have created a transparent stakeholders' communication and prioritization\nprocess",
+                    "position": "CIO at Digital Business block"
+                },
+                {
+                    "id": "20143ecd-70d4-4a8d-ac66-b6eccc1cd22f",
+                    "date": {
+                        "end": "2017-11-30T00:00:00.000Z",
+                        "start": "2016-07-31T00:00:00.000Z"
+                    },
+                    "name": "DomClick",
+                    "summary": "Tech leadership on Java developers, planning, and task decomposition.\n\nCommunication with business. Candidates interviews.\n\nProject:\n\nThe system, a de facto analog of the bill of credit, is performed without a bank license.\n\nThe system is built with:\n\nJava 8, Kotlin\nSpring\n\nPostgres\n\njOOQ\n\nRabbitMQ\n\nReact+Redux for frontend.\n\nAll the system works in the Kubernetes environment (and in Docker).\n\nOther responsibilities:\n\nIn my first month in the company, I created an architectural overview of the whole company ecosystem. I've created the presentation, where I made some accents on the most influencing weaknesses of existing solutions and proposed ways to improve the situation. Most of the ideas from this presentation are now accepted as rules for development in the company.",
+                    "position": "Development tech lead"
+                },
+                {
+                    "id": "3c5f2a36-554a-4d04-9d54-f09d1839a2b6",
+                    "date": {
+                        "end": "2016-07-31T00:00:00.000Z",
+                        "start": "2015-12-31T00:00:00.000Z"
+                    },
+                    "summary": "I've achieved the following results:\n\nGot basic knowledge about retail business\n\nUnder conditions of constantly changing requirements, I've created a team, process, and product that can quickly adapt to these requirements.\n\nBrought a product into production exploitation (in the beta-test stage)\n\nTechnical stack is:\n\nSpring Boot with Cloud, Security, MVC, Core, JDBC, Cache, AMQP\n\nConsul\n\nPostgres\n\nRedis\n\nJava 8, Kotlin\nJavascript (ES2015, AngularJS, Webpack)\n\nDocker",
+                    "position": "Software architect"
+                },
+                {
+                    "id": "ec9cd276-2c2c-4553-9f7a-4fa62ea6e057",
+                    "date": {
+                        "end": "2015-12-31T00:00:00.000Z",
+                        "start": "2014-02-28T00:00:00.000Z"
+                    },
+                    "summary": "My responsibilities include:\n\nManagement of team up to 5 people, task assignment, planning.\n\nAlso I work as a senior developer, so I have responsibility for final product architecture and things like deployment process automation, documentation etc.\n\nWe're developing enterprise-class application, which controls federal system of electronic data exchange and intercommunication.\n\nKey technologies: Java EE, JavaScript, CSS, HTML, Hibernate, Oracle.",
+                    "position": "Team Lead"
+                },
+                {
+                    "id": "2dfe5eac-98e6-404a-a494-0382ca2e6455",
+                    "date": {
+                        "end": "2013-11-30T00:00:00.000Z",
+                        "start": "2013-05-31T00:00:00.000Z"
+                    },
+                    "summary": "Wrote articles about linux for CHIP DVD.",
+                    "position": "Author"
+                },
+                {
+                    "id": "f7d47e8f-8c60-49bc-8136-69d9911326dc",
+                    "date": {
+                        "end": "2014-01-31T00:00:00.000Z",
+                        "start": "2009-03-31T00:00:00.000Z"
+                    },
+                    "summary": "Java programming:\n\nstandart library, apache commons, JPA, google guava, Eclipse RCP, Hibernate (basic knowledge)\n\nResearch development: Metawidget, GWT, Vaadin, many other libs\n\nI am first in our team, who used mockito in unit tests.\n\nOther languages:\n\nGroovy, Scala and Kotlin (basic)\n\nBuild engineering: Jenkins CI, Maven\nSetup servers for development - all infrastructure work: OS setup, all necessary soft\n\nStrong knowledge of Unix-based OS'es - ubuntu, centos, fedora",
+                    "position": "Developer"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "53b7df92-abd8-4844-9ec1-f2ae9316b5e3",
+                    "name": "Communications",
+                    "keywords": [
+                        "Public speaking",
+                        "Podcasting"
+                    ],
+                    "levelNum": 9
+                },
+                {
+                    "id": "a369e7a7-e1f5-4852-b83b-ed6b4efea5bd",
+                    "name": "Programming",
+                    "keywords": [
+                        "Java",
+                        "Kotlin",
+                        "Python",
+                        "JS",
+                        "TS",
+                        "Scala"
+                    ],
+                    "levelNum": 8
+                },
+                {
+                    "id": "49cd3d7b-3ec0-40e4-a43f-d8c7cacfdf03",
+                    "name": "Architecture",
+                    "keywords": [
+                        "Microservices",
+                        "Data Storage Architecture",
+                        "Distributed Systems"
+                    ],
+                    "levelNum": 8
+                },
+                {
+                    "id": "ee6b0c06-1dc4-438b-9770-e92d6ef5b224",
+                    "name": "Data Engineering",
+                    "keywords": [
+                        "Apache Spark",
+                        "Architecture",
+                        "EMR",
+                        "Kafka",
+                        "GCP",
+                        "Storages"
+                    ],
+                    "levelNum": 7
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "eaf76a34-e161-4676-bae7-077c184dbaa2",
+                    "area": "Business Psychology",
+                    "date": {
+                        "end": "2009-06-30T00:00:00.000Z",
+                        "start": "2007-09-01T00:00:00.000Z"
+                    },
+                    "degree": "Master's degree",
+                    "courses": [],
+                    "institution": "Higher School of Economics"
+                },
+                {
+                    "id": "bbc35df5-1bdb-472c-bc99-8837588bec57",
+                    "area": "Psychology",
+                    "date": {
+                        "end": "2007-06-30T00:00:00.000Z",
+                        "start": "2003-09-01T00:00:00.000Z"
+                    },
+                    "degree": "Bachelor's degree",
+                    "courses": [],
+                    "institution": "Higher School of Economics"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "015606b6-2ec2-4a8f-810f-61e852132ae1",
+                    "name": "English",
+                    "level": "Professional Working",
+                    "levelNum": 5
+                },
+                {
+                    "id": "d8c85df8-4fc6-4c8a-bc86-bbf3ea5ecb34",
+                    "name": "Russian",
+                    "level": "Native Speaker",
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "75a14d23-a698-4a3e-97c8-cbbe6f85cda9",
+                    "name": "Slava Semushin",
+                    "relationship": "Pavel is one of the brightest persons that I've ever seen! He is quickly learning new stuff, very positive with an open mind, eager to discover new horizons. I like (and I continue to learn from him) his attitude for mistakes and conflicts.\n\nI remember that when we worked together, we found a synergy between us that helped both of us to grow faster. Our communication also created a strong relationship that is still alive, and I always like to meet him over and over. If one day we are able to work together again, I will be happy!"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "c4b7f01d-785c-46f1-a54a-2b0fdae5b4e3",
+                    "url": "",
+                    "date": "2021-11-02",
+                    "name": "Apache Airflow Fundamentals",
+                    "issuer": "Astronomer",
+                    "summary": "[online](https://www.credly.com/badges/3ab3ba08-62e6-47df-8c0b-d00a063389aa)"
+                },
+                {
+                    "id": "9ce88b99-502f-4ca2-8858-37e41cedf837",
+                    "url": "",
+                    "date": "2021-11-21",
+                    "name": "DAG Authoring for Apache Airflow",
+                    "issuer": "Astronomer",
+                    "summary": "[online](https://www.credly.com/badges/c02a4206-42f8-4dc3-99a1-f3ee2b64edad)"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "YYYY.MM.DD"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#3f51b5",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "kakuna",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
